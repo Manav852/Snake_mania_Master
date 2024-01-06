@@ -25,10 +25,7 @@ If you are in Linux or Mac you'll need wine to run the game. Install [wine](http
 wine Snake-Mania.exe
 ```
 
-## Developers
 
-- [Shakirul Hasan Khan](https://github.com/KhanShaheb34)
-- [Nishat Tasniya Rahman](https://github.com/Tasniyaa)
 
 ## Credits
 
